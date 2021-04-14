@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCG_Feature5_ML", "PCG_Feature5_ML\PCG_Feature5_ML.csproj", "{053CDD4E-D1E4-46FE-9879-897275814F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{053CDD4E-D1E4-46FE-9879-897275814F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053CDD4E-D1E4-46FE-9879-897275814F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053CDD4E-D1E4-46FE-9879-897275814F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053CDD4E-D1E4-46FE-9879-897275814F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D589D376-4F00-4831-B208-BC31F8346F42}
+	EndGlobalSection
+EndGlobal
